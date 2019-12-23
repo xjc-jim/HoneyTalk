@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# 文件名：socket_keHu.py
+# 客户端
+# 文件名：HoneyTalkShe.py
 # 作者：聪明的瓦肯人
 # 微信公众号：工业光线
 # 个人主页：http://www.tech-xjc.com

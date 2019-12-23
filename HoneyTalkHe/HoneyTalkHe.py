@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-# 文件名：socket_fuWu.py
-# 开发者：聪明的瓦肯人
+# 服务端
+# 文件名：HoneyTalkHe.py
+# 作者：聪明的瓦肯人
 # 微信公众号：工业光线
 # 个人主页：http://www.tech-xjc.com
 
